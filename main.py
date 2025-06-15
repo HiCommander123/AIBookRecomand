@@ -45,7 +45,7 @@ st.markdown("<h2 style='text-align:center;'> AI 책 추천기 </h2>", unsafe_all
 
 menu = st.radio(
     "원하는 메뉴를 선택하세요:",
-    ["경제경영", "소설", "비문학", "문제집 추천", "리뷰 쓰기", "리뷰 보기"],
+    ["경제경영", "소설", "비문학", "문제집 추천", "리뷰쓰기", "리뷰 보기"],
     horizontal=True
 )
 
